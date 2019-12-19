@@ -65,6 +65,7 @@
   );
   border: solid 1px #f02146;
   border-bottom-width: 3px;
+  color: white;
   outline: none;
   cursor: pointer;
   -webkit-transition: all 0.3s ease;
