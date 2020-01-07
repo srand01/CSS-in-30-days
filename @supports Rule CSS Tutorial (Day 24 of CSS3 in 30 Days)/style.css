@@ -1,0 +1,12 @@
+//@supports Rule CSS Tutorial (Day 24 of CSS3 in 30 Days)
+
+@supports (display: grid) {
+  div {
+    display: grid;
+  }
+}
+@supports not (display: grid) {
+  div {
+    float: right;
+  }
+}
